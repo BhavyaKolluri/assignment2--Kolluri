@@ -1,0 +1,1 @@
+[click here to see picture](https://github.com/BhavyaKolluri/assignment2--Kolluri/blob/main/sketch.jpg)
