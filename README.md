@@ -4,4 +4,4 @@
 > Hyderabad is a historical place with all **beautiful architectures**.
 > I love this city.
 
-![MY PIC](MY.JPG)
+![MY PIC](https://github.com/BhavyaKolluri/assignment2--Kolluri/blob/main/MY.JPG)
